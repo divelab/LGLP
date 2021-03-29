@@ -8,6 +8,17 @@ Pytorch implementation of [Line Graph Neural Networks for Link Prediction](https
 
 ![model](./LGLP/Python/pipeline.png)
 
+If using this code , please cite our paper.
+
+'''
+@article{cai2020line,
+  title={Line graph neural networks for link prediction},
+  author={Cai, Lei and Li, Jundong and Wang, Jie and Ji, Shuiwang},
+  journal={arXiv preprint arXiv:2010.10046},
+  year={2020}
+}
+'''
+
 ## System requirement
 
 #### Programming language
